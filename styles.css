@@ -28,6 +28,10 @@ textarea{
     font-size: larger;
 }
 
+.container-center{
+    max-width: 500px;
+    margin: auto;
+}
 button{
     background-color: var(--primary-color);
     font-family: inherit;
