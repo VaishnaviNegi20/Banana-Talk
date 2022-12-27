@@ -12,7 +12,7 @@ function getUrlTranslation(txtInput) {
 }
 
 function ifErrorHappens(error) {
-    console.log("erroer occured" , error);
+    console.log("erroer occurred" , error);
     alert("The server is down right now, please try later");
 }
 
