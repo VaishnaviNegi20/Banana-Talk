@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Lora:wght@400;600&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
 :root{
     --primary-color: #fde047;
 }
 
 body{
-    font-family: 'Courgette', cursive;
+    font-family: 'Gloria Hallelujah', cursive;
     margin: 0px;
 }
 
@@ -29,7 +28,7 @@ textarea{
 }
 
 .container-center{
-    max-width: 500px;
+    max-width: 750px;
     margin: auto;
 }
 button{
