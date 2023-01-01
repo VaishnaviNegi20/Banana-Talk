@@ -16,11 +16,11 @@ body{
     font-size: x-large;
 }
 
-.hero{
-    padding: 1rem 0rem 0rem 0rem;
-    text-align: center;
+.minion-img{
+    padding: 3rem;
+    margin-left: 38%;
+    width: 10%;
 }
-
 textarea{
     width: 40%;
     height: 16vh;
